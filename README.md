@@ -31,6 +31,6 @@
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 # berikut merupakan bentuk implementasi dari modularisasi pada praktikum 8
 ![img1!](asset/img/foto7.png)
-# outpun
+# output
 ![img1!](asset/img/foto8.png)
 ![img1!](asset/img/foto9.png)
