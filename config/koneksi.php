@@ -9,5 +9,5 @@ if ($conn == false)
 {
 echo "Koneksi ke server gagal.";
 die();
-} echo "Koneksi berhasil";
+} #echo "Koneksi berhasil";
 ?>
