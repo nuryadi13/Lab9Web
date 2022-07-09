@@ -3,7 +3,7 @@
 | NIM     | 312010621       |
 | Kelas   | TI.20.A.1        |
 
-## Langkah langkah praktikum 8
+## Langkah langkah praktikum 9
 
 ## 1. Buat file baru dengan nama header.php
 
@@ -34,3 +34,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 # output
 ![img1!](asset/img/foto8.png)
 ![img1!](asset/img/foto9.png)
+
+Langkah-langkah praktikum 10
+
+![img1!](asset/img2/foto1.png)
