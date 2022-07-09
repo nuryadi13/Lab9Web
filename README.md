@@ -35,6 +35,27 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 ![img1!](asset/img/foto8.png)
 ![img1!](asset/img/foto9.png)
 
-Langkah-langkah praktikum 10
+
+
+# Langkah-langkah praktikum 10
+
+# buat folder baru dengan nama lab10_oop
+# buat file baru dengan nama mobil.php
 
 ![img1!](asset/img2/foto1.png)
+
+Selanjutnya jalankan kode tersebut pada browser
+
+![img1!](asset/img2/foto2.png)
+
+# Buat file dengan nama form.php
+
+![img1!](asset/img2/foto3.png)
+
+# Buat form baru dengan nama form_input.php
+
+![img1!](asset/img2/foto4.png)
+
+refresh browser untuk melihat hasilnya
+
+![img1!](asset/img2/foto5.png)
